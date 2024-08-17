@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagardandapat
-🌱 I’m currently learning Web Development & DSA [c++]
+- 🌱 I’m currently learning Web Development & DSA [c++]
 - 📫 How to reach me dandapatsagar340@gmail.com
 - ⚡ Fun fact"Git Is Not an Acronym".
 
